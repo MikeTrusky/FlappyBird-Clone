@@ -9,3 +9,6 @@ A clone of the popular Flappy Bird game made as a quick project.
 ![alt text](https://github.com/MikeTrusky/FlappyBird-Clone/blob/main/Description/1.png?raw=true)
 ![alt text](https://github.com/MikeTrusky/FlappyBird-Clone/blob/main/Description/2.png?raw=true)
 ![alt text](https://github.com/MikeTrusky/FlappyBird-Clone/blob/main/Description/3.png?raw=true)
+
+# Apk downloadable file
+[FlappyBird clone apk file](https://github.com/MikeTrusky/FlappyBird-Clone/blob/main/FlappyBirdClone.apk)
