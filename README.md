@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [About The Project](#about-the-project)
-* [Technologies Used](#technologies-used)
+* [Built with](#built-with)
 * [Screenshots](#screenshots)
 * [Apk downloadable file](#apk-downloadable-file)
 * [Contact with author](#contact-with-author)
@@ -16,7 +16,7 @@
 
 Clone of a FlappyBird game.
 
-## Technologies Used
+## Built with
 
 * Unity
 * C#
